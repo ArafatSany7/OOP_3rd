@@ -21,6 +21,7 @@ class Human extends Animal {
     @Override
     public void move() {
         System.out.println("Human can walk");
+
     }
 
     public void talk() {
