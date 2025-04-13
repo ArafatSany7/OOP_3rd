@@ -17,5 +17,6 @@ public class dowhile {
         } while (num > 0);
 
         System.out.println(fac);
+        System.out.println("hello");
     }
 }
